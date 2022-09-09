@@ -1,0 +1,21 @@
+{
+  "name": "node-api-solid-tests",
+  "description": "using vitest first time",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sávio <saviopf22@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "typescript": "*",
+    "vitest": "^0.23.1"
+  }
+}
